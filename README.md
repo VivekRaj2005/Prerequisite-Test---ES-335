@@ -13,6 +13,6 @@
 
 ## Special Note
 
-This notebook is best viewed and executed in Google Colab. GitHub may distort formatting and code cell rendering.
+This notebook is best viewed and executed in <a href="https://colab.research.google.com/github/VivekRaj2005/Prerequisite-Test---ES-335/blob/main/Prerequisite_Test_ES_335.ipynb">Google Colab</a>. GitHub may distort formatting and code cell rendering.
 
 
